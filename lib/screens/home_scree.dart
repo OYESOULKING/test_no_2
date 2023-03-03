@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:test_no_2/custom_painter/custom_painter_no_1.dart';
 
 class HomeScree extends StatefulWidget {
